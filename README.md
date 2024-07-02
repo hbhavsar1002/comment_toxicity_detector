@@ -15,7 +15,7 @@ Output: {
   "identity_hate": False
 }
 
-Gradio is used for build a simple user interface.
+Gradio is used to build a simple user interface.
 
 Screenshots:
 ![image](https://github.com/hbhavsar1002/comment_toxicity_detector/assets/30213124/5b4cce1e-da51-48d8-bbe9-60fe54df0b7c)
